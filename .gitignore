@@ -214,5 +214,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Class data files (kept in Drive, not the repo)
+*.csv
+data/
+
 # Streamlit
 .streamlit/secrets.toml
