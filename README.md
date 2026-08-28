@@ -1,10 +1,13 @@
 # MSF_Bootcamp_F2026
-### Lab 01 SPY Analysis 2026 03 04
+### Notebooks for Day 3
 
-### Final Project Diagnostics PROD
+### 01 Data Pull Tool
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSFin_S2026/blob/main/FE747_DIAGNOSTICS_PROD.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSF_Bootcamp_F2026/blob/main/01_Data_Pull.ipynb)
 
+### 01 Data Pull Tool
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jgcarter-at-bu-edu/MSF_Bootcamp_F2026/blob/main/02_VIX_Regime_Analysis.ipynb)
 
 Student Instructions:
 
